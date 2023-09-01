@@ -1,0 +1,39 @@
+[Global]
+TimeZone=America/Mexico_City
+ConfigExpirationTime=never
+AvailableKeyboardLayouts=latam|us|es|dvorak|
+DefaultKeyboardLayout=latam
+EventConfig=false
+ContestConfig=true
+
+[Always]
+AllowedWebsites=all
+AllowUsbStorage=true
+AvailableSoftware=internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|
+Bookmarks={Codeforces^https://capdk2023.contest.codeforces.com}|{Traductor^https://www.deepl.com/es/translator}
+Wallpaper=directives.huronos.org/external/itsur/contest.png
+WallpaperSha256=cf7a445c6d2ccde7c85cdd7e7f4b8482a28d9bf63db4751c46f5d8f7b0fd4b19
+
+[Event]
+AllowedWebsites=all
+AllowUsbStorage=true
+AvailableSoftware=internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|
+Bookmarks={huronOS^https://huronos.org}|{Contest^https://boca.icpcmexico.org}|
+Wallpaper=default
+
+[Contest]
+AllowedWebsites=capdk2023.contest.codeforces.com|assets.codeforces.com|deepl.com|static.deepl.com|w.deepl.com|s.deepl.com|login-wall.deepl.com|www2.deepl.com|dict.deepl.com|wikipedia.org|wikimedia.org
+AvailableSoftware=internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|
+Bookmarks={Codeforces^https://capdk2023.contest.codeforces.com}|{Traductor^https://www.deepl.com/es/translator}
+Wallpaper=directives.huronos.org/external/itsur/contest.png
+WallpaperSha256=cf7a445c6d2ccde7c85cdd7e7f4b8482a28d9bf63db4751c46f5d8f7b0fd4b19
+
+[Event-Times]
+
+[Contest-Times]
+2023-08-21T13:25:00 2023-08-21T18:46:00
+2023-08-22T13:00:00 2023-08-22T18:25:00
+2023-08-23T13:00:00 2023-08-23T18:16:00
+2023-08-24T13:00:00 2023-08-24T18:20:00
+2023-08-25T13:00:00 2023-08-25T18:30:00
+2023-08-26T13:28:00 2023-08-26T15:31:00
